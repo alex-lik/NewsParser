@@ -1,0 +1,6 @@
+httpx
+feedparser
+loguru
+icecream
+python-dotenv
+pyyaml
